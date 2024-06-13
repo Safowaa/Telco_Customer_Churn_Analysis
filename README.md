@@ -27,8 +27,6 @@ In the ever-evolving telecommunication sector, retaining customers and accuratel
 
 <!-- /TOC -->
 
-## Worlflow
-![A beautiful sunset](https://example.com/sunset.jpg "Sunset at the beach")
 
   
  
