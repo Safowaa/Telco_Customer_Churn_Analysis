@@ -130,6 +130,12 @@ ENV/
 env.bak/
 venv.bak/
 virtual/
+/https.docx
+/Asumaning_Safowaa_Benedicta_LP2.docx
+/~WRL0003.tmp
+/~$umaning_Safowaa_Benedicta_LP2.docx
+/Customer_Attrition_analysis(Churn).pbix
+
 
 # Spyder project settings
 .spyderproject
