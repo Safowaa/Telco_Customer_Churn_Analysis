@@ -678,7 +678,7 @@ customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleL
 6656-JWRQX,Female,0,No,No,1,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,30.55,30.55,1
 6473-ULUHT,Male,0,Yes,Yes,16,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,84.9,1398.25,0
 1240-KNSEZ,Male,0,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.1,20.1,0
-0836-SEYLU,Male,0,Yes,No,9,No,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,40.65,328.95,1
+0836-SEYLU,Male,0,Yes,No,9,No,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,40.65,328.95,0
 4433-JCGCG,Male,1,Yes,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.0,4680.05,1
 3716-BDVDB,Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.1,69.1,1
 7688-AWMDX,Male,0,Yes,No,71,Yes,No,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),54.5,3778.2,0
@@ -1751,7 +1751,7 @@ customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleL
 1682-VCOIO,Male,0,No,No,23,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,20.45,481.1,0
 5729-KLZAR,Female,0,Yes,Yes,4,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,80.85,302.75,1
 2072-ZVJJX,Male,0,Yes,No,68,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),25.25,1728.2,0
-8849-AYPTR,Male,0,Yes,No,33,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91.25,2964.05,1
+8849-AYPTR,Male,0,Yes,No,33,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91.25,2964.05,0
 9518-IMLHK,Male,0,No,No,31,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),72.45,2156.25,0
 1582-RAFML,Male,0,No,No,1,Yes,Yes,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,60.1,60.1,0
 3646-ITDGM,Female,0,No,No,56,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),19.7,1051.9,0
