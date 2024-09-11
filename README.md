@@ -53,34 +53,34 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 
 - Distribution of customers based on tenure, monthly charges, and contract type.
 ### EDA Visualization
-![Monthly Charges](LP2_Backup\Visuals\churn_by_contract_type.png)
+![Monthly Charges](Visuals\churn_by_contract_type.png)
 
-![Number of Months](LP2_Backup\Visuals\Tenure_by_churn.png)
+![Number of Months](Visuals\Tenure_by_churn.png)
 
-![Senior Citizen](LP2_Backup\Visuals\churn_by_seniorCitizen.png)
+![Senior Citizen](Visuals\churn_by_seniorCitizen.png)
 
 - Correlation between different features and their impact on churn.
 
-![Correlation HeatMap](LP2_Backup\Visuals\correlation_numeric.png)
+![Correlation HeatMap](Visuals\correlation_numeric.png)
 
 ## Business Questions and Visualizations
 
 Several business questions were asked and answered through visualizations:
 
 ### PowerBI Dashboard 
-![Telco Churn Analysis Dashboard](LP2_Backup\Visuals\Dashboard.png)
+![Telco Churn Analysis Dashboard](Visuals\Dashboard.png)
 
 1. **How does customer churn vary across different genders??**
-   ![Churn to Genders](LP2_Backup\Visuals\churn_by_gender.png)
+   ![Churn to Genders](Visuals\churn_by_gender.png)
    
 2. **What impact do different service offerings have on customer churn?**
    ![Service to Churn](Visuals\Service_to_Churn.png)
    
 3. **How effective are customer support interactions in reducing churn?**
-   ![Customer support to Churn](LP2_Backup\Visuals\churn_by_contract_type.png).
+   ![Customer support to Churn](Visuals\churn_by_contract_type.png).
 
 4. **What are the reasons behind the differences in churn rates among various contract types?**
-   ![Churn to Contract Type](LP2_Backup\Visuals\Churn_to_Contract_Type.png).
+   ![Churn to Contract Type](Visuals\Churn_to_Contract_Type.png).
 ## Machine Learning Model
 
 A machine learning model was built to predict customer churn on the test data. The process involved:
