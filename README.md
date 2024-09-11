@@ -53,9 +53,9 @@ EDA was performed to understand the distribution of data, detect anomalies, and 
 
 - Distribution of customers based on tenure, monthly charges, and contract type.
 ### EDA Visualization
-![Monthly Charges](Visuals\churn_by_contract_type.png)
+![Monthly Charges](https://github.com/Safowaa/Customer_Churn_Analysis/blob/c4aa84f9a5f9524e724acc19e62a1f9b561ee061/Visuals/churn_by_contract_type.png)
 
-![Number of Months](Visuals\Tenure_by_churn.png)
+![Number of Months](https://github.com/Safowaa/Customer_Churn_Analysis/blob/master/Visuals/Tenure_by_churn.png)
 
 ![Senior Citizen](Visuals\churn_by_seniorCitizen.png)
 
